@@ -7,7 +7,7 @@
 > Full-stack software studio building web and mobile products — from early-stage ideas to production-grade systems.
 
 [![Website](https://img.shields.io/badge/i9va.systems-000000?style=for-the-badge&logo=safari&logoColor=white)](https://i9va.systems)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=inspire&logoColor=white)](https://linkedin.com/company/i9va)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=inspire&logoColor=white)](https://linkedin.com/company/i9va-systems)
 [![Email](https://img.shields.io/badge/opensource@i9va.systems-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opensource@i9va.systems)
 
 </div>
